@@ -1,0 +1,13 @@
+src,dst,relation,distance,pathcost
+Yangon,PaThein,MRoad,117.96,15000
+Yangon,Mandalay,MRoad,395.77,25000
+Yangon,Bago,MRoad,51.55,5000
+Mandalay,Bagan,MRoad,111.92,12000
+Mandalay,SaGaing,MRoad,144.91,5000
+Mandalay,PyanOoLwin,MRoad,42.9,7000
+SaGaing,Taunggyi,MRoad,247.86,22000
+Bago,MawLaMyine,MRoad,138.55,12000
+MawLaMyine,KawThaung,MRoad,604.74,60000
+Bagan,SaGaing,MRoad,109.8,10000
+PyanOoLwin,Lashio,MRoad,131.72,7000
+Lashio,Taunggyi,MRoad,242.45,15000
