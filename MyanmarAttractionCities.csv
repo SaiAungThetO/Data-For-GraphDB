@@ -1,5 +1,4 @@
-id,latitude,longitude,population,"attraction Place
-Rank",,
+id,latitude,longitude,population,"attractionPlaceRank",,
 Yangon,16.78466,96.156745,2513023,5,,
 Mandalay,21.97708,96.084144,532949,5,,
 Bago,17.32873,96.498578,150528,3,,
